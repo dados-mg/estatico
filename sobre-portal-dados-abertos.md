@@ -16,11 +16,11 @@ Dados abertos são:
 
 Seu conceito e utilização estão previstos:
 
-- na Lei de Acesso à Informação (Lei Federal nº 12.527/2011);
+- na [Lei de Acesso à Informação (Lei 12.527/2011)](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm);
 
-- no Decreto Estadual  nº 45.969/2012;
+- no [Decreto Estadual 45969/2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012);
 
-- e na Resolução 20, de 6/8/2014, da CGE.
+- e na [Resolução 20, de 6/8/2014, da CGE](http://pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=171158).
 
 ## Arquitetura 
 
